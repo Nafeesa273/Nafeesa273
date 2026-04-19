@@ -1,6 +1,6 @@
 # 👩‍💻 Hello, I'm Nafeesa Haroon!
 ![Followers](https://img.shields.io/github/followers/Nafeesa273?label=Followers&style=social)
-![Following](https://img.shields.io/github/following/Nafeesa273?label=Following&style=social)
+[![Followers](https://img.shields.io/github/followers/Nafeesa273?style=flat-square&logo=github)](https://github.com/Nafeesa273?tab=followers)
 ### Computer Science Student @ KICSIT Kahuta (IST)
 
 I am a 6th-semester Computer Science student dedicated to building clean, functional, and well-structured applications. My academic journey focuses on software development, data integrity, and exploring modern deployment tools.
